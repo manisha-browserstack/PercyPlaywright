@@ -1,0 +1,18 @@
+userName: manishasardar_HBC0EW
+accessKey: yJ2iAmvXYSHurcFJqp4L
+buildName: "Percy Playwright Sample Build"
+projectName: "Percy Integration Demo"
+
+platforms:
+  - os: "osx"
+    osVersion: "Sonoma"
+    browserName: "chrome"
+    browserVersion: "latest"
+
+parallels: 1
+browserstackLocal: true
+
+playwrightVersion: "1.47.0"
+
+npmScripts:
+  test: "npx percy exec -- node tests/browserstack.test.js"

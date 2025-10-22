@@ -1,0 +1,17 @@
+{
+  "name": "percy-playwright-sample",
+  "version": "1.0.0",
+  "description": "Sample project using Playwright with Percy to take visual snapshots of BrowserStack platform.",
+  "scripts": {
+    "test": "npx playwright test",
+    "percy-test": "npx percy exec -- node tests/browserstack.test.js",
+    "test:bstack": "npx playwright test ./tests/browserstack.test.js"
+  },
+  "devDependencies": {
+    "@percy/cli": "^1.30.0",
+    "@percy/playwright": "^1.0.0",
+    "@playwright/test": "^1.56.1",
+    "browserstack-node-sdk": "^1.45.2",
+    "playwright": "^1.47.0"
+  }
+}

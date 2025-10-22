@@ -1,0 +1,15 @@
+2025-10-21 23:14:32 - [32minfo[39m: Reading configs from /Users/manishasardar/Downloads/PercyPlaywrightSample/browserstack.yml
+2025-10-21 23:14:32 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:14:32 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:14:32 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --config browserstack.yml
+2025-10-21 23:14:32 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --config browserstack.yml
+2025-10-21 23:22:07 - [32minfo[39m: Reading configs from /Users/manishasardar/Downloads/PercyPlaywrightSample/browserstack.yml
+2025-10-21 23:22:07 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:22:07 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:22:07 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --build-name Percy Playwright Sample --project-name Percy Integration Demo --file ./tests/browserstack.test.js --browsers chrome@latest:Windows 11 firefox@latest:Windows 11
+2025-10-21 23:22:07 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --build-name Percy Playwright Sample --project-name Percy Integration Demo --file ./tests/browserstack.test.js --browsers chrome@latest:Windows 11 firefox@latest:Windows 11
+2025-10-21 23:28:22 - [32minfo[39m: Reading configs from /Users/manishasardar/Downloads/PercyPlaywrightSample/browserstack.yml
+2025-10-21 23:28:22 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:28:22 - [32minfo[39m: Log Directory has been set to /Users/manishasardar/Downloads/PercyPlaywrightSample/log
+2025-10-21 23:28:22 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --config ./browserstack.config.js ./tests/browserstack.test.js
+2025-10-21 23:28:22 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/manishasardar/Downloads/PercyPlaywrightSample/node_modules/.bin/browserstack-node-sdk playwright --config ./browserstack.config.js ./tests/browserstack.test.js
