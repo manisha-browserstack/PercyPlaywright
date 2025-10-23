@@ -1,5 +1,5 @@
-userName: manishasardar_HBC0EW
-accessKey: yJ2iAmvXYSHurcFJqp4L
+userName: Browserstack_username
+accessKey: Browserstack_accesskey
 buildName: "Percy Playwright Sample Build"
 projectName: "Percy Integration Demo"
 
